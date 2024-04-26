@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.AppHost", "AspireIoT.EdgeGateWays\AspireIoT.EdgeGateWays.AppHost\AspireIoT.EdgeGateWays.AppHost.csproj", "{3BE74E05-8E51-44E2-BEC2-6893D24ABD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.ServiceDefaults", "AspireIoT.EdgeGateWays\AspireIoT.EdgeGateWays.ServiceDefaults\AspireIoT.EdgeGateWays.ServiceDefaults.csproj", "{0DC32D03-CF07-4926-8B75-8E2B6B5C071C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.ApiService", "AspireIoT.EdgeGateWays\AspireIoT.EdgeGateWays.ApiService\AspireIoT.EdgeGateWays.ApiService.csproj", "{7920D3AA-43A5-4FD6-8F82-1D7F49344350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.Web", "AspireIoT.EdgeGateWays\AspireIoT.EdgeGateWays.Web\AspireIoT.EdgeGateWays.Web.csproj", "{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE74E05-8E51-44E2-BEC2-6893D24ABD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE74E05-8E51-44E2-BEC2-6893D24ABD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE74E05-8E51-44E2-BEC2-6893D24ABD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE74E05-8E51-44E2-BEC2-6893D24ABD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC32D03-CF07-4926-8B75-8E2B6B5C071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC32D03-CF07-4926-8B75-8E2B6B5C071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC32D03-CF07-4926-8B75-8E2B6B5C071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC32D03-CF07-4926-8B75-8E2B6B5C071C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7920D3AA-43A5-4FD6-8F82-1D7F49344350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7920D3AA-43A5-4FD6-8F82-1D7F49344350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7920D3AA-43A5-4FD6-8F82-1D7F49344350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7920D3AA-43A5-4FD6-8F82-1D7F49344350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
