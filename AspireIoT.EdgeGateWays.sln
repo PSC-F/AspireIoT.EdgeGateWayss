@@ -8,6 +8,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.ApiS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.Web", "AspireIoT.EdgeGateWays\AspireIoT.EdgeGateWays.Web\AspireIoT.EdgeGateWays.Web.csproj", "{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.DataCollectService", "AspireIoT.EdgeGateWays.DataCollectService\AspireIoT.EdgeGateWays.DataCollectService.csproj", "{44CC5347-090A-4FD3-83F2-FF398B1ABC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWay.DeviceManageService", "AspireIoT.EdgeGateWay.DeviceManageService\AspireIoT.EdgeGateWay.DeviceManageService.csproj", "{F35E78A9-DE6C-41DC-9990-8A09B218D09B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.MonitorService", "AspireIoT.EdgeGateWays.MonitorService\AspireIoT.EdgeGateWays.MonitorService.csproj", "{C433BC40-BAD8-43A8-8FFC-3E2C389ED587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireIoT.EdgeGateWays.ProtcolAdaptService", "AspireIoT.EdgeGateWays.ProtcolAdaptService\AspireIoT.EdgeGateWays.ProtcolAdaptService.csproj", "{219DB971-EF84-49F6-AEDE-30D3828A0DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +38,21 @@ Global
 		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AABA48F-DE9F-46D3-9520-F2E5FFF67041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CC5347-090A-4FD3-83F2-FF398B1ABC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CC5347-090A-4FD3-83F2-FF398B1ABC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CC5347-090A-4FD3-83F2-FF398B1ABC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CC5347-090A-4FD3-83F2-FF398B1ABC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35E78A9-DE6C-41DC-9990-8A09B218D09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35E78A9-DE6C-41DC-9990-8A09B218D09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35E78A9-DE6C-41DC-9990-8A09B218D09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35E78A9-DE6C-41DC-9990-8A09B218D09B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C433BC40-BAD8-43A8-8FFC-3E2C389ED587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C433BC40-BAD8-43A8-8FFC-3E2C389ED587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C433BC40-BAD8-43A8-8FFC-3E2C389ED587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C433BC40-BAD8-43A8-8FFC-3E2C389ED587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219DB971-EF84-49F6-AEDE-30D3828A0DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219DB971-EF84-49F6-AEDE-30D3828A0DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219DB971-EF84-49F6-AEDE-30D3828A0DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219DB971-EF84-49F6-AEDE-30D3828A0DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -10,6 +10,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\..\AspireIoT.EdgeGateWays.MonitorService\AspireIoT.EdgeGateWays.MonitorService.csproj" />
         <ProjectReference Include="..\AspireIoT.EdgeGateWays.ApiService\AspireIoT.EdgeGateWays.ApiService.csproj"/>
         <ProjectReference Include="..\AspireIoT.EdgeGateWays.Web\AspireIoT.EdgeGateWays.Web.csproj"/>
     </ItemGroup>

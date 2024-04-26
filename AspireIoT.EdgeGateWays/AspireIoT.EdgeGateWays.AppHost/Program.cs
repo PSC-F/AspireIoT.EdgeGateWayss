@@ -4,5 +4,5 @@ var apiService = builder.AddProject<Projects.AspireIoT_EdgeGateWays_ApiService>(
 
 builder.AddProject<Projects.AspireIoT_EdgeGateWays_Web>("webfrontend")
     .WithReference(apiService);
-
+builder.AddProject<Projects.AspireIoT_EdgeGateWays_MonitorService>("MonitorService");
 builder.Build().Run();
